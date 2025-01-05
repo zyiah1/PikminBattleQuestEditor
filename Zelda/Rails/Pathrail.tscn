@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://pgqmftfmamha"]
+
+[ext_resource type="Script" path="res://Code/Rail.gd" id="1_m4k46"]
+
+[node name="Pathrail" type="Node3D"]
+script = ExtResource("1_m4k46")
+
+[node name="Lines" type="Node3D" parent="."]

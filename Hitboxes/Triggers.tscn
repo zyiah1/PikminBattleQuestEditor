@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://bb5l74rhkh4jg"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lj76f"]
+size = Vector3(90, 90, 90)
+
+[node name="BoxTrigger" type="Area3D"]
+collision_mask = 2
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("BoxShape3D_lj76f")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+shape = SubResource("BoxShape3D_lj76f")

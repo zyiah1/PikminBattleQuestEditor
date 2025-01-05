@@ -1,0 +1,33 @@
+[gd_scene load_steps=4 format=3 uid="uid://cdrb317726ic4"]
+
+[ext_resource type="Script" path="res://AxisforTools/Move.gd" id="1_cxaoq"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ni6cl"]
+albedo_color = Color(1, 0, 0, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_1qnae"]
+size = Vector3(0.454605, 0.104736, 0.0989895)
+
+[node name="Move" type="Node3D"]
+script = ExtResource("1_cxaoq")
+
+[node name="X" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.22821, 0, 0)
+size = Vector3(0.450562, 0.1, 0.1)
+material = SubResource("StandardMaterial3D_ni6cl")
+
+[node name="X" type="Area3D" parent="X"]
+collision_mask = 2
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="X/X"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00164074, 0.00012207, -0.00256276)
+shape = SubResource("BoxShape3D_1qnae")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="X/X"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="X/X/StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00164074, 0.00012207, -0.00256276)
+shape = SubResource("BoxShape3D_1qnae")
+
+[connection signal="area_entered" from="X/X" to="." method="_on_x_area_entered"]
+[connection signal="area_exited" from="X/X" to="." method="_on_x_area_exited"]

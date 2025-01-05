@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://dia45wua0dvcx"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_uaciu"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k5lhc"]
+albedo_color = Color(0.894118, 0.803922, 0, 1)
+
+[node name="Start" type="Node3D"]
+transform = Transform3D(5.41177, 0, 0, 0, 1, 0, 0, 0, 15.159, 0, 0, 0)
+script = ExtResource("1_uaciu")
+Name = "Zld_StartPos"
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+material = SubResource("StandardMaterial3D_k5lhc")

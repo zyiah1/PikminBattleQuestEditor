@@ -1,0 +1,529 @@
+[gd_scene load_steps=30 format=3 uid="uid://bbqbkn0pikyd7"]
+
+[ext_resource type="Script" path="res://creator.gd" id="1_0ra0f"]
+[ext_resource type="Script" path="res://Cam.gd" id="2_egxq8"]
+[ext_resource type="Script" path="res://Maps.gd" id="3_pps4s"]
+[ext_resource type="Script" path="res://creatorbutton.gd" id="4_cdjsn"]
+[ext_resource type="Texture2D" uid="uid://cwstqlbq1p8m4" path="res://Zelda/ButtonIcons/MoriburinA.png" id="5_phfyc"]
+[ext_resource type="Script" path="res://Properties.gd" id="5_r8r4y"]
+[ext_resource type="Texture2D" uid="uid://bcohdmbclw0rr" path="res://Zelda/ButtonIcons/MoriburinB.png" id="6_77rjw"]
+[ext_resource type="Texture2D" uid="uid://fgiqv66t2hye" path="res://Zelda/ButtonIcons/MoriburinS.png" id="7_2f3vb"]
+[ext_resource type="Texture2D" uid="uid://iwmmorj0j513" path="res://Zelda/ButtonIcons/MoriburinSS.png" id="8_4c4om"]
+[ext_resource type="Texture2D" uid="uid://b0llxmgt1brvy" path="res://Zelda/ButtonIcons/Yumiburin.png" id="9_67yvf"]
+[ext_resource type="Texture2D" uid="uid://q7sgj4fleuv0" path="res://Zelda/ButtonIcons/Chuchu.png" id="9_up0gq"]
+[ext_resource type="Texture2D" uid="uid://rhrc7g4jci4j" path="res://Zelda/ButtonIcons/ChuchuA.png" id="10_q2pkp"]
+[ext_resource type="Texture2D" uid="uid://dqayjnsrs2thv" path="res://Zelda/ButtonIcons/Hayaburin.png" id="12_xceit"]
+[ext_resource type="Texture2D" uid="uid://dxktjpygsbj3d" path="res://Zelda/ButtonIcons/Bakudan_A.png" id="13_abv88"]
+[ext_resource type="Texture2D" uid="uid://d1bik32tuspmk" path="res://Zelda/ButtonIcons/Tsubo.png" id="13_cbglq"]
+[ext_resource type="Texture2D" uid="uid://dqh41fioh1pe8" path="res://Zelda/ButtonIcons/Crowly.png" id="13_hwag7"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_wkfri"]
+sky_horizon_color = Color(0.309804, 0.772549, 0.972549, 1)
+ground_bottom_color = Color(0.0784314, 0.0627451, 0.0431373, 1)
+ground_horizon_color = Color(0.227451, 0.235294, 0.243137, 1)
+
+[sub_resource type="Sky" id="Sky_smqdl"]
+sky_material = SubResource("ProceduralSkyMaterial_wkfri")
+
+[sub_resource type="Environment" id="Environment_ooc4d"]
+background_mode = 2
+sky = SubResource("Sky_smqdl")
+tonemap_mode = 2
+
+[sub_resource type="Animation" id="Animation_7bm2c"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1153, 772)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("../Popout:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1112, 771)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("../Popout:text")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": ["<"]
+}
+
+[sub_resource type="Animation" id="Animation_4lewp"]
+resource_name = "in"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.420448, 0.420448),
+"update": 0,
+"values": [Vector2(1607, 772), Vector2(1153, 772)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("../Popout:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.42, 0.42),
+"update": 0,
+"values": [Vector2(1569, 771), Vector2(1112, 771)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("../Popout:text")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": ["<", ">"]
+}
+
+[sub_resource type="Animation" id="Animation_xqwyl"]
+resource_name = "out"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.420448, 0.420448),
+"update": 0,
+"values": [Vector2(1153, 772), Vector2(1607, 772)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("../Popout:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.42, 0.42),
+"update": 0,
+"values": [Vector2(1112, 771), Vector2(1569, 771)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("../Popout:text")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0.2),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": ["<"]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_j5yog"]
+_data = {
+"RESET": SubResource("Animation_7bm2c"),
+"in": SubResource("Animation_4lewp"),
+"out": SubResource("Animation_xqwyl")
+}
+
+[sub_resource type="Animation" id="Animation_1e562"]
+resource_name = "In"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.34151, 0.329877),
+"update": 0,
+"values": [Vector2(1094, 2), Vector2(1559, 2)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Popout:text")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": [">", "<"]
+}
+
+[sub_resource type="Animation" id="Animation_v5wrh"]
+resource_name = "Out"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.4),
+"transitions": PackedFloat32Array(0.329877, 1),
+"update": 0,
+"values": [Vector2(1559, 2), Vector2(1094, 2)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Popout:text")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": ["<", ">"]
+}
+
+[sub_resource type="Animation" id="Animation_tksc8"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1559, 2)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Popout:text")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": ["<"]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_mai6b"]
+_data = {
+"In": SubResource("Animation_1e562"),
+"Out": SubResource("Animation_v5wrh"),
+"RESET": SubResource("Animation_tksc8")
+}
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_e6t7j"]
+bg_color = Color(0.309804, 0.360784, 0.317647, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_58qyt"]
+size = Vector3(1, 5.203, 1)
+
+[node name="Creator" type="Node3D"]
+script = ExtResource("1_0ra0f")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_ooc4d")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866024, -0.433016, 0.250001, 0, 0.499998, 0.866026, -0.500003, 0.749999, -0.43301, 0, 0, 0)
+shadow_enabled = true
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -83, 116, -181.796)
+script = ExtResource("2_egxq8")
+_vel_multiplier = 40
+
+[node name="Map" type="Node3D" parent="."]
+transform = Transform3D(100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0)
+
+[node name="Objects" type="Node3D" parent="."]
+
+[node name="Rails" type="Node3D" parent="."]
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="name" type="LineEdit" parent="UI"]
+offset_left = 7.0
+offset_top = 847.0
+offset_right = 294.0
+offset_bottom = 904.0
+placeholder_text = "untitled"
+alignment = 1
+
+[node name="saving" type="RichTextLabel" parent="UI"]
+visible = false
+offset_left = 1.0
+offset_top = 578.0
+offset_right = 123.0
+offset_bottom = 617.0
+text = "saving"
+
+[node name="Popout" type="Button" parent="UI"]
+offset_left = 1112.0
+offset_top = 771.0
+offset_right = 1152.0
+offset_bottom = 900.0
+text = "<"
+
+[node name="Save" type="Button" parent="UI/Popout"]
+layout_mode = 0
+offset_left = -309.0
+offset_top = 3.0
+offset_right = -19.0
+offset_bottom = 129.0
+text = "Save"
+
+[node name="Maps" type="ScrollContainer" parent="UI"]
+offset_left = 1153.0
+offset_top = 772.0
+offset_right = 1601.0
+offset_bottom = 903.0
+script = ExtResource("3_pps4s")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="UI/Maps"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="MapPlayer" type="AnimationPlayer" parent="UI/Maps"]
+libraries = {
+"": SubResource("AnimationLibrary_j5yog")
+}
+
+[node name="Tools" type="HBoxContainer" parent="UI"]
+offset_left = 1.0
+offset_top = 93.0
+offset_right = 1151.0
+offset_bottom = 178.0
+alignment = 1
+
+[node name="delete" type="Button" parent="UI/Tools" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+text = "Trash"
+script = ExtResource("4_cdjsn")
+
+[node name="property" type="Button" parent="UI/Tools" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+text = "Property"
+script = ExtResource("4_cdjsn")
+
+[node name="inspect" type="Button" parent="UI/Tools" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+text = "Inspect"
+script = ExtResource("4_cdjsn")
+
+[node name="Objects" type="HBoxContainer" parent="UI"]
+offset_left = 1.0
+offset_top = 3.0
+offset_right = 1151.0
+offset_bottom = 88.0
+alignment = 1
+
+[node name="moriA" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("5_phfyc")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="moriB" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("6_77rjw")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="moriS" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("7_2f3vb")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="moriSS" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("8_4c4om")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="yumi" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("9_67yvf")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="chuchu" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("9_up0gq")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="chuchuA" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("10_q2pkp")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="haya" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("12_xceit")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="bakudanA" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("13_abv88")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="crowly" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("13_hwag7")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="tsubo" type="Button" parent="UI/Objects" groups=["button"]]
+custom_minimum_size = Vector2(100, 2.08165e-12)
+layout_mode = 2
+focus_mode = 0
+icon = ExtResource("13_cbglq")
+icon_alignment = 1
+expand_icon = true
+script = ExtResource("4_cdjsn")
+
+[node name="Properties" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 1559.0
+offset_top = 2.0
+offset_right = 1599.0
+offset_bottom = 646.0
+script = ExtResource("5_r8r4y")
+
+[node name="popoutAnim" type="AnimationPlayer" parent="UI/Properties"]
+libraries = {
+"": SubResource("AnimationLibrary_mai6b")
+}
+
+[node name="Popout" type="Button" parent="UI/Properties"]
+layout_mode = 0
+offset_top = 200.0
+offset_right = 40.0
+offset_bottom = 533.0
+text = "<"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="UI/Properties"]
+layout_mode = 0
+offset_left = 40.0
+offset_top = 20.0
+offset_right = 501.0
+offset_bottom = 766.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_e6t7j")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="UI/Properties/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Previews" type="Node3D" parent="."]
+
+[node name="delete" type="Node3D" parent="Previews"]
+
+[node name="Area3D" type="Area3D" parent="Previews/delete"]
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Previews/delete/Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.1015, 0)
+shape = SubResource("BoxShape3D_58qyt")
+
+[node name="property" type="Node3D" parent="Previews"]
+
+[node name="Area3D" type="Area3D" parent="Previews/property"]
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Previews/property/Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.1015, 0)
+shape = SubResource("BoxShape3D_58qyt")
+
+[node name="inspect" type="Node3D" parent="Previews"]
+
+[node name="Area3D" type="Area3D" parent="Previews/inspect"]
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Previews/inspect/Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.1015, 0)
+shape = SubResource("BoxShape3D_58qyt")
+
+[connection signal="pressed" from="UI/Popout" to="UI/Maps" method="_on_popout_pressed"]
+[connection signal="pressed" from="UI/Popout/Save" to="." method="_on_export_pressed"]
+[connection signal="pressed" from="UI/Properties/Popout" to="UI/Properties" method="_on_popout_pressed"]

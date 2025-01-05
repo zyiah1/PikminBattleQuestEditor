@@ -1,0 +1,134 @@
+Version: 1
+IsBigEndian: True
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  LayerInfos:
+    - Infos:
+        ObjInfo:
+      LayerName: LC
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L1
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L2
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L3
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L4
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L5
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L6
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L7
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L8
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L9
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L10
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L11
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L12
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L13
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L14
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L15
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L16
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L17
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L18
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L19
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L20
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L21
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L22
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L23
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L24
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L25

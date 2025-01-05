@@ -1,0 +1,69 @@
+[gd_scene load_steps=4 format=3 uid="uid://d4eavg8thjai"]
+
+[ext_resource type="Script" path="res://Load.gd" id="1_8iv8t"]
+[ext_resource type="Script" path="res://New.gd" id="1_tfl7p"]
+[ext_resource type="Script" path="res://SettingsButton.gd" id="3_sjo2o"]
+
+[node name="Title" type="Node3D"]
+
+[node name="Buttons" type="CanvasLayer" parent="."]
+
+[node name="Load" type="Button" parent="Buttons"]
+offset_left = 1304.0
+offset_top = 163.0
+offset_right = 1499.0
+offset_bottom = 339.0
+text = "Load
+"
+script = ExtResource("1_8iv8t")
+
+[node name="FileDialog" type="FileDialog" parent="Buttons/Load"]
+title = "Open a File"
+size = Vector2i(1600, 800)
+ok_button_text = "Open"
+file_mode = 0
+access = 2
+filters = PackedStringArray("*txt", "*zld")
+
+[node name="Paste" type="Button" parent="Buttons/Load"]
+visible = false
+layout_mode = 0
+offset_top = 196.0
+offset_right = 195.0
+offset_bottom = 268.0
+text = "PASTE"
+
+[node name="New" type="Button" parent="Buttons"]
+offset_left = 74.0
+offset_top = 156.0
+offset_right = 269.0
+offset_bottom = 332.0
+text = "New
+"
+script = ExtResource("1_tfl7p")
+
+[node name="Settings" type="Button" parent="Buttons"]
+offset_left = 667.0
+offset_top = 455.0
+offset_right = 862.0
+offset_bottom = 631.0
+text = "Settings
+
+"
+script = ExtResource("3_sjo2o")
+
+[node name="FileDialog" type="FileDialog" parent="Buttons/Settings"]
+mode = 4
+title = "Open a Directory"
+size = Vector2i(1600, 850)
+unresizable = true
+borderless = true
+ok_button_text = "Select Current Folder"
+dialog_close_on_escape = false
+file_mode = 2
+access = 2
+filters = PackedStringArray("folder")
+
+[connection signal="file_selected" from="Buttons/Load/FileDialog" to="Buttons/Load" method="_on_file_dialog_file_selected"]
+[connection signal="button_down" from="Buttons/Load/Paste" to="Buttons/Load" method="_on_paste_button_down"]
+[connection signal="dir_selected" from="Buttons/Settings/FileDialog" to="Buttons/Settings" method="_on_file_dialog_file_selected"]

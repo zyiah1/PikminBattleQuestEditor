@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://qbdhnvg4w0fk"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_1be6q"]
+[ext_resource type="PackedScene" uid="uid://d3ct4rn7mp7vk" path="res://Zelda/Actors/Pot/Crowly Heart.fbx" id="2_v7af7"]
+
+[node name="ZldCrowly" type="Node3D"]
+script = ExtResource("1_1be6q")
+Name = "Zld_Crowly"
+
+[node name="Root Scene" parent="." instance=ExtResource("2_v7af7")]
+
+[node name="Skeleton3D" parent="Root Scene/RootNode/Armature" index="0"]
+bones/10/rotation = Quaternion(0.000474975, 0.000474975, -0.229525, 1.00048)
+bones/14/rotation = Quaternion(0.000474975, 0.000474975, 0.235475, 1.00048)
+
+[editable path="Root Scene"]

@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://duqgcs3qaivvo"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_faaki"]
+[ext_resource type="PackedScene" uid="uid://4xvct5jsmwe" path="res://Zelda/Actors/Bokoblin/Hayaburin.fbx" id="2_8anx0"]
+
+[node name="Zld_Hayaburin" type="Node3D"]
+transform = Transform3D(0.01, 0, 0, 0, 0.01, 0, 0, 0, 0.01, 0, 0, 0)
+script = ExtResource("1_faaki")
+Name = "Zld_Hayaburin"
+
+[node name="Root Scene" parent="." instance=ExtResource("2_8anx0")]
+
+[node name="Skeleton3D" parent="Root Scene/RootNode/Armature" index="0"]
+bones/2/rotation = Quaternion(0.000474975, 0.000474975, -0.479525, 1.00048)
+bones/6/rotation = Quaternion(0.000474975, 0.000474975, 0.480475, 1.00048)
+
+[editable path="Root Scene"]

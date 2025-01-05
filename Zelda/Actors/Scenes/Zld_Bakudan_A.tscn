@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cyt2f6h7qbibv"]
+
+[ext_resource type="Script" path="res://Code/ObjectNoPath.gd" id="1_cwdne"]
+[ext_resource type="PackedScene" uid="uid://b1x7u4rfx2nek" path="res://Zelda/Actors/Pot/Bomb.fbx" id="2_icstt"]
+
+[node name="Zld_Bakudan_A" type="Node3D"]
+script = ExtResource("1_cwdne")
+Name = "Zld_Bakudan_A"
+
+[node name="Root Scene" parent="." instance=ExtResource("2_icstt")]

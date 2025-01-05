@@ -1,0 +1,18 @@
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://bok4fg0o687os"]
+
+[ext_resource type="Texture2D" uid="uid://fd4anxo5j4df" path="res://UIart/grassbutton.png" id="1_eo88y"]
+[ext_resource type="Texture2D" uid="uid://3u6x68qpi845" path="res://UIart/grassbuttonpress.png" id="2_ki8db"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_a4q7g"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_0mdqn"]
+texture = ExtResource("1_eo88y")
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_w34h3"]
+texture = ExtResource("2_ki8db")
+
+[resource]
+Button/styles/focus = SubResource("StyleBoxEmpty_a4q7g")
+Button/styles/hover = SubResource("StyleBoxTexture_0mdqn")
+Button/styles/normal = SubResource("StyleBoxTexture_0mdqn")
+Button/styles/pressed = SubResource("StyleBoxTexture_w34h3")

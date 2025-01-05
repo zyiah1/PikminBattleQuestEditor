@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://bk2tent3plsvh"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_pg1ye"]
+[ext_resource type="PackedScene" uid="uid://bb5l74rhkh4jg" path="res://Hitboxes/Triggers.tscn" id="2_7dkox"]
+[ext_resource type="Texture2D" uid="uid://b6uh2j04yq6ba" path="res://ArtCustom/3D/BoxSpawn.png" id="2_86yur"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_uvr2r"]
+transparency = 1
+cull_mode = 2
+shading_mode = 0
+albedo_texture = ExtResource("2_86yur")
+
+[node name="AppearSwitchBox" type="Node3D" groups=["SwitchBox"]]
+script = ExtResource("1_pg1ye")
+Name = "Zld_AppearSwitchBox"
+Param0 = 0
+Hitbox = ExtResource("2_7dkox")
+Scalable = true
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+size = Vector3(90, 90, 90)
+material = SubResource("StandardMaterial3D_uvr2r")

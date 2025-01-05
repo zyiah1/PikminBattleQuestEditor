@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://bl44an1rs0bw7"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_ptfj1"]
+[ext_resource type="PackedScene" uid="uid://rv7f46uma0lj" path="res://Zelda/Actors/Bokoblin/Yumiburin.fbx" id="2_fpebj"]
+
+[node name="ZldMoriburinA" type="Node3D"]
+transform = Transform3D(0.01, 0, 0, 0, 0.01, 0, 0, 0, 0.01, 0, 0, 0)
+script = ExtResource("1_ptfj1")
+Name = "Zld_Yumiburin"
+
+[node name="Root Scene" parent="." instance=ExtResource("2_fpebj")]
+
+[node name="Skeleton3D" parent="Root Scene/RootNode/Armature" index="0"]
+bones/2/rotation = Quaternion(0.000474975, 0.000474975, -0.499525, 1.00048)
+bones/8/rotation = Quaternion(0.000474975, 0.000474975, 0.500475, 1.00048)
+
+[editable path="Root Scene"]

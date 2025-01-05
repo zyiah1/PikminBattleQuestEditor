@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1vmf0f2vstoo"
+path="res://.godot/imported/Zld_Field_Sougen_A.obj-f0bb1b60bdcaecd0dbec3b66b075da46.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Zld_Field_Sougen_A.obj-f0bb1b60bdcaecd0dbec3b66b075da46.mesh"]
+
+source_file="res://Zelda/Stages/Imports/Zld_Field_Sougen_A.obj"
+dest_files=["res://.godot/imported/Zld_Field_Sougen_A.obj-f0bb1b60bdcaecd0dbec3b66b075da46.mesh", "res://.godot/imported/Zld_Field_Sougen_A.obj-f0bb1b60bdcaecd0dbec3b66b075da46.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

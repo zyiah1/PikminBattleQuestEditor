@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=3 uid="uid://cdkot037sioki"]
+
+[ext_resource type="Script" path="res://Code/Object.gd" id="1_kvkch"]
+[ext_resource type="PackedScene" uid="uid://bb5l74rhkh4jg" path="res://Hitboxes/Triggers.tscn" id="2_ktsxv"]
+[ext_resource type="Texture2D" uid="uid://b4ax4ebhiixn2" path="res://ArtCustom/3D/BoxNotice.png" id="2_ys1es"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_qg43m"]
+transparency = 1
+cull_mode = 2
+shading_mode = 0
+diffuse_mode = 3
+albedo_texture = ExtResource("2_ys1es")
+refraction_scale = 1.0
+
+[node name="StartSwitchBox" type="Node3D" groups=["SwitchBox"]]
+script = ExtResource("1_kvkch")
+Name = "Zld_StartSwitchBox"
+Param0 = 0
+Hitbox = ExtResource("2_ktsxv")
+Scalable = true
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+size = Vector3(90, 90, 90)
+material = SubResource("StandardMaterial3D_qg43m")

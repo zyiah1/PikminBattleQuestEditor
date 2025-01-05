@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://dwxqo3sbclmhl"]
+
+[ext_resource type="Script" path="res://Code/Rail.gd" id="1_3fdlp"]
+[ext_resource type="PackedScene" uid="uid://c11gqxb1jus1x" path="res://Points/Green.tscn" id="2_djc70"]
+
+[node name="GeneralRail" type="Node3D"]
+script = ExtResource("1_3fdlp")
+Point = ExtResource("2_djc70")
+pathcolor = Color(0.262745, 0.631373, 0, 1)
+
+[node name="Lines" type="Node3D" parent="."]

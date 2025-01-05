@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://c0hhrpjmqm6se"]
+
+[ext_resource type="Script" path="res://Code/ObjectNoPath.gd" id="1_7karw"]
+[ext_resource type="PackedScene" uid="uid://cak0yc5sdhy68" path="res://Zelda/Actors/Pot/Pot.fbx" id="2_6dpqk"]
+
+[node name="Zld_Tsubo" type="Node3D"]
+script = ExtResource("1_7karw")
+
+[node name="Root Scene" parent="." instance=ExtResource("2_6dpqk")]

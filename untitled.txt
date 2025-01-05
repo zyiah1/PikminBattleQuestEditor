@@ -1,0 +1,4517 @@
+Version: 1
+IsBigEndian: True
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  LayerInfos:
+    - Infos:
+        ObjInfo:
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj1
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -82.4348373413086
+            pos_y: 41.8526496887207
+            pos_z: -181.796203613281
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0.00001675516069
+            dir_y: -0.00000226892803
+            dir_z: 0.00001675516069
+            group: 0.00000
+            id_name: obj2
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartPos
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 15.3745803833008
+            pos_y: 5.97102022171021
+            pos_z: 340.058685302734
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj3
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartPos
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -6.30000019073486
+            pos_y: 46.0999984741211
+            pos_z: -574.799987792969
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj4
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 41.6797218322754
+            pos_y: 57.7593307495117
+            pos_z: -137.488006591797
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj5
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -42.6300582885742
+            pos_y: 90.7838821411133
+            pos_z: -418.617614746094
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj6
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -257.407287597656
+            pos_y: 89.8527526855469
+            pos_z: -263.876007080078
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj7
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Crowly
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: 0
+            param4: 1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 57.8086090087891
+            pos_y: 129.516296386719
+            pos_z: -404.138214111328
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj8
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 50.8203392028809
+            pos_y: 57.7593307495117
+            pos_z: -125.417701721191
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj9
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 50.8203392028809
+            pos_y: 57.7593307495117
+            pos_z: -136.714599609375
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            id_name: obj10
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Tsubo
+            param0: -1
+            param1: -1
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -28.9269409179688
+            pos_y: 90.7838897705078
+            pos_z: -414.867614746094
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail12/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 15.4191598892212
+                  pnt0_y: 5.97100019454956
+                  pnt0_z: 340.047912597656
+                  pnt1_x: 15.4191598892212
+                  pnt1_y: 5.97100019454956
+                  pnt1_z: 340.047912597656
+                  pnt2_x: 15.4191598892212
+                  pnt2_y: 5.97100019454956
+                  pnt2_z: 340.047912597656
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail13/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -8.04749965667725
+                  pnt0_y: 1.36811995506287
+                  pnt0_z: 295.952514648438
+                  pnt1_x: -8.04749965667725
+                  pnt1_y: 1.36811995506287
+                  pnt1_z: 295.952514648438
+                  pnt2_x: -8.04749965667725
+                  pnt2_y: 1.36811995506287
+                  pnt2_z: 295.952514648438
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail14/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -18.4403095245361
+                  pnt0_y: 1.06269001960754
+                  pnt0_z: 264.51220703125
+                  pnt1_x: -18.4403095245361
+                  pnt1_y: 1.06269001960754
+                  pnt1_z: 264.51220703125
+                  pnt2_x: -18.4403095245361
+                  pnt2_y: 1.06269001960754
+                  pnt2_z: 264.51220703125
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力0
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail16/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -60.2532691955566
+                  pnt0_y: 9.44285011291504
+                  pnt0_z: 155.11149597168
+                  pnt1_x: -60.2532691955566
+                  pnt1_y: 9.44285011291504
+                  pnt1_z: 155.11149597168
+                  pnt2_x: -60.2532691955566
+                  pnt2_y: 9.44285011291504
+                  pnt2_z: 155.11149597168
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail17/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -73.9050216674805
+                  pnt0_y: 13.6522397994995
+                  pnt0_z: 91.9721069335938
+                  pnt1_x: -73.9050216674805
+                  pnt1_y: 13.6522397994995
+                  pnt1_z: 91.9721069335938
+                  pnt2_x: -73.9050216674805
+                  pnt2_y: 13.6522397994995
+                  pnt2_z: 91.9721069335938
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail18/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -75.538688659668
+                  pnt0_y: 14.9337196350098
+                  pnt0_z: 74.0017700195312
+                  pnt1_x: -75.538688659668
+                  pnt1_y: 14.9337196350098
+                  pnt1_z: 74.0017700195312
+                  pnt2_x: -75.538688659668
+                  pnt2_y: 14.9337196350098
+                  pnt2_z: 74.0017700195312
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力1
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail20/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -143.4833984375
+                  pnt0_y: 16.4605503082275
+                  pnt0_z: 124.266296386719
+                  pnt1_x: -143.4833984375
+                  pnt1_y: 16.4605503082275
+                  pnt1_z: 124.266296386719
+                  pnt2_x: -143.4833984375
+                  pnt2_y: 16.4605503082275
+                  pnt2_z: 124.266296386719
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail21/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -90.2867279052734
+                  pnt0_y: 12.9601001739502
+                  pnt0_z: 151.117202758789
+                  pnt1_x: -90.2867279052734
+                  pnt1_y: 12.9601001739502
+                  pnt1_z: 151.117202758789
+                  pnt2_x: -90.2867279052734
+                  pnt2_y: 12.9601001739502
+                  pnt2_z: 151.117202758789
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail22/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -60.6582794189453
+                  pnt0_y: 8.22307968139648
+                  pnt0_z: 159.610900878906
+                  pnt1_x: -60.6582794189453
+                  pnt1_y: 8.22307968139648
+                  pnt1_z: 159.610900878906
+                  pnt2_x: -60.6582794189453
+                  pnt2_y: 8.22307968139648
+                  pnt2_z: 159.610900878906
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力2
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail24/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -73.2877197265625
+                  pnt0_y: 38.6230697631836
+                  pnt0_z: -147.060195922852
+                  pnt1_x: -73.2877197265625
+                  pnt1_y: 38.6230697631836
+                  pnt1_z: -147.060195922852
+                  pnt2_x: -73.2877197265625
+                  pnt2_y: 38.6230697631836
+                  pnt2_z: -147.060195922852
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail25/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -63.3574295043945
+                  pnt0_y: 45.1186485290527
+                  pnt0_z: -201.094100952148
+                  pnt1_x: -63.3574295043945
+                  pnt1_y: 45.1186485290527
+                  pnt1_z: -201.094100952148
+                  pnt2_x: -63.3574295043945
+                  pnt2_y: 45.1186485290527
+                  pnt2_z: -201.094100952148
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail26/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -32.3511581420898
+                  pnt0_y: 43.9421806335449
+                  pnt0_z: -293.400390625
+                  pnt1_x: -32.3511581420898
+                  pnt1_y: 43.9421806335449
+                  pnt1_z: -293.400390625
+                  pnt2_x: -32.3511581420898
+                  pnt2_y: 43.9421806335449
+                  pnt2_z: -293.400390625
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail27/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -22.6290302276611
+                  pnt0_y: 44.4812698364258
+                  pnt0_z: -346.722503662109
+                  pnt1_x: -22.6290302276611
+                  pnt1_y: 44.4812698364258
+                  pnt1_z: -346.722503662109
+                  pnt2_x: -22.6290302276611
+                  pnt2_y: 44.4812698364258
+                  pnt2_z: -346.722503662109
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail28/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -15.8912801742554
+                  pnt0_y: 43.9422302246094
+                  pnt0_z: -391.289611816406
+                  pnt1_x: -15.8912801742554
+                  pnt1_y: 43.9422302246094
+                  pnt1_z: -391.289611816406
+                  pnt2_x: -15.8912801742554
+                  pnt2_y: 43.9422302246094
+                  pnt2_z: -391.289611816406
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail29/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -11.2343597412109
+                  pnt0_y: 46.1989898681641
+                  pnt0_z: -489.155792236328
+                  pnt1_x: -11.2343597412109
+                  pnt1_y: 46.1989898681641
+                  pnt1_z: -489.155792236328
+                  pnt2_x: -11.2343597412109
+                  pnt2_y: 46.1989898681641
+                  pnt2_z: -489.155792236328
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail30/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -9.33524990081787
+                  pnt0_y: 46.1989898681641
+                  pnt0_z: -570.817626953125
+                  pnt1_x: -9.33524990081787
+                  pnt1_y: 46.1989898681641
+                  pnt1_z: -570.817626953125
+                  pnt2_x: -9.33524990081787
+                  pnt2_y: 46.1989898681641
+                  pnt2_z: -570.817626953125
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力8
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 217
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail32/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 13.7951002120972
+                  pnt0_y: 8.99619960784912
+                  pnt0_z: 192.942398071289
+                  pnt1_x: 13.7951002120972
+                  pnt1_y: 8.99619960784912
+                  pnt1_z: 192.942398071289
+                  pnt2_x: 13.7951002120972
+                  pnt2_y: 8.99619960784912
+                  pnt2_z: 192.942398071289
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail33/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 2.42723989486694
+                  pnt0_y: 5.83886003494263
+                  pnt0_z: 224.971298217773
+                  pnt1_x: 2.42723989486694
+                  pnt1_y: 5.83886003494263
+                  pnt1_z: 224.971298217773
+                  pnt2_x: 2.42723989486694
+                  pnt2_y: 5.83886003494263
+                  pnt2_z: 224.971298217773
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail34/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -18.563009262085
+                  pnt0_y: 1.29443001747131
+                  pnt0_z: 261.070098876953
+                  pnt1_x: -18.563009262085
+                  pnt1_y: 1.29443001747131
+                  pnt1_z: 261.070098876953
+                  pnt2_x: -18.563009262085
+                  pnt2_y: 1.29443001747131
+                  pnt2_z: 261.070098876953
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力11
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail36/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -21.1175193786621
+                  pnt0_y: 1.34171998500824
+                  pnt0_z: 260.356689453125
+                  pnt1_x: -21.1175193786621
+                  pnt1_y: 1.34171998500824
+                  pnt1_z: 260.356689453125
+                  pnt2_x: -21.1175193786621
+                  pnt2_y: 1.34171998500824
+                  pnt2_z: 260.356689453125
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail37/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -37.8219108581543
+                  pnt0_y: 4.26809978485107
+                  pnt0_z: 219.212493896484
+                  pnt1_x: -37.8219108581543
+                  pnt1_y: 4.26809978485107
+                  pnt1_z: 219.212493896484
+                  pnt2_x: -37.8219108581543
+                  pnt2_y: 4.26809978485107
+                  pnt2_z: 219.212493896484
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail38/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -58.7121315002441
+                  pnt0_y: 8.96765995025635
+                  pnt0_z: 162.239196777344
+                  pnt1_x: -58.7121315002441
+                  pnt1_y: 8.96765995025635
+                  pnt1_z: 162.239196777344
+                  pnt2_x: -58.7121315002441
+                  pnt2_y: 8.96765995025635
+                  pnt2_z: 162.239196777344
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力12
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail40/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -77.7642669677734
+                  pnt0_y: 31.2346992492676
+                  pnt0_z: -89.296012878418
+                  pnt1_x: -77.7642669677734
+                  pnt1_y: 31.2346992492676
+                  pnt1_z: -89.296012878418
+                  pnt2_x: -77.7642669677734
+                  pnt2_y: 31.2346992492676
+                  pnt2_z: -89.296012878418
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail41/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -74.5495986938477
+                  pnt0_y: 37.5488014221191
+                  pnt0_z: -139.946594238281
+                  pnt1_x: -74.5495986938477
+                  pnt1_y: 37.5488014221191
+                  pnt1_z: -139.946594238281
+                  pnt2_x: -74.5495986938477
+                  pnt2_y: 37.5488014221191
+                  pnt2_z: -139.946594238281
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: 未入力18
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 212
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail43/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 57.6591491699219
+                  pnt0_y: 129.134704589844
+                  pnt0_z: -403.986999511719
+                  pnt1_x: 57.6591491699219
+                  pnt1_y: 129.134704589844
+                  pnt1_z: -403.986999511719
+                  pnt2_x: 57.6591491699219
+                  pnt2_y: 129.134704589844
+                  pnt2_z: -403.986999511719
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail44/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 58.9993515014648
+                  pnt0_y: 129.090805053711
+                  pnt0_z: -390.378295898438
+                  pnt1_x: 58.9993515014648
+                  pnt1_y: 129.090805053711
+                  pnt1_z: -390.378295898438
+                  pnt2_x: 58.9993515014648
+                  pnt2_y: 129.090805053711
+                  pnt2_z: -390.378295898438
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail45/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 67.0667877197266
+                  pnt0_y: 132.352996826172
+                  pnt0_z: -370.547088623047
+                  pnt1_x: 67.0667877197266
+                  pnt1_y: 132.352996826172
+                  pnt1_z: -370.547088623047
+                  pnt2_x: 67.0667877197266
+                  pnt2_y: 132.352996826172
+                  pnt2_z: -370.547088623047
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail46/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 96.3461227416992
+                  pnt0_y: 138.534393310547
+                  pnt0_z: -353.607513427734
+                  pnt1_x: 96.3461227416992
+                  pnt1_y: 138.534393310547
+                  pnt1_z: -353.607513427734
+                  pnt2_x: 96.3461227416992
+                  pnt2_y: 138.534393310547
+                  pnt2_z: -353.607513427734
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail47/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 156.217697143555
+                  pnt0_y: 144.936599731445
+                  pnt0_z: -326.342803955078
+                  pnt1_x: 156.217697143555
+                  pnt1_y: 144.936599731445
+                  pnt1_z: -326.342803955078
+                  pnt2_x: 156.217697143555
+                  pnt2_y: 144.936599731445
+                  pnt2_z: -326.342803955078
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail48/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 213.084701538086
+                  pnt0_y: 143.75
+                  pnt0_z: -331.406402587891
+                  pnt1_x: 213.084701538086
+                  pnt1_y: 143.75
+                  pnt1_z: -331.406402587891
+                  pnt2_x: 213.084701538086
+                  pnt2_y: 143.75
+                  pnt2_z: -331.406402587891
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail49/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 290.520812988281
+                  pnt0_y: 126.46549987793
+                  pnt0_z: -429.209411621094
+                  pnt1_x: 290.520812988281
+                  pnt1_y: 126.46549987793
+                  pnt1_z: -429.209411621094
+                  pnt2_x: 290.520812988281
+                  pnt2_y: 126.46549987793
+                  pnt2_z: -429.209411621094
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail50/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 310.079895019531
+                  pnt0_y: 126.304397583008
+                  pnt0_z: -500.852600097656
+                  pnt1_x: 310.079895019531
+                  pnt1_y: 126.304397583008
+                  pnt1_z: -500.852600097656
+                  pnt2_x: 310.079895019531
+                  pnt2_y: 126.304397583008
+                  pnt2_z: -500.852600097656
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail51/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 272.472808837891
+                  pnt0_y: 119.792503356934
+                  pnt0_z: -562.17529296875
+                  pnt1_x: 272.472808837891
+                  pnt1_y: 119.792503356934
+                  pnt1_z: -562.17529296875
+                  pnt2_x: 272.472808837891
+                  pnt2_y: 119.792503356934
+                  pnt2_z: -562.17529296875
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 212
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail53/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -56.5985488891602
+                  pnt0_y: 8.28839015960693
+                  pnt0_z: 158.654800415039
+                  pnt1_x: -56.5985488891602
+                  pnt1_y: 8.28839015960693
+                  pnt1_z: 158.654800415039
+                  pnt2_x: -56.5985488891602
+                  pnt2_y: 8.28839015960693
+                  pnt2_z: 158.654800415039
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail54/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 11.8157997131348
+                  pnt0_y: 8.91267013549805
+                  pnt0_z: 187.918701171875
+                  pnt1_x: 11.8157997131348
+                  pnt1_y: 8.91267013549805
+                  pnt1_z: 187.918701171875
+                  pnt2_x: 11.8157997131348
+                  pnt2_y: 8.91267013549805
+                  pnt2_z: 187.918701171875
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール1
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail56/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 16.1658496856689
+                  pnt0_y: 9.1948299407959
+                  pnt0_z: 189.500595092773
+                  pnt1_x: 16.1658496856689
+                  pnt1_y: 9.1948299407959
+                  pnt1_z: 189.500595092773
+                  pnt2_x: 16.1658496856689
+                  pnt2_y: 9.1948299407959
+                  pnt2_z: 189.500595092773
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail57/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 64.0163497924805
+                  pnt0_y: 13.6832799911499
+                  pnt0_z: 168.936706542969
+                  pnt1_x: 64.0163497924805
+                  pnt1_y: 13.6832799911499
+                  pnt1_z: 168.936706542969
+                  pnt2_x: 64.0163497924805
+                  pnt2_y: 13.6832799911499
+                  pnt2_z: 168.936706542969
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール2
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail59/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 98.8167114257812
+                  pnt0_y: 19.8471698760986
+                  pnt0_z: 153.118392944336
+                  pnt1_x: 98.8167114257812
+                  pnt1_y: 19.8471698760986
+                  pnt1_z: 153.118392944336
+                  pnt2_x: 98.8167114257812
+                  pnt2_y: 19.8471698760986
+                  pnt2_z: 153.118392944336
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail60/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 68.7618637084961
+                  pnt0_y: 13.7728595733643
+                  pnt0_z: 167.354904174805
+                  pnt1_x: 68.7618637084961
+                  pnt1_y: 13.7728595733643
+                  pnt1_z: 167.354904174805
+                  pnt2_x: 68.7618637084961
+                  pnt2_y: 13.7728595733643
+                  pnt2_z: 167.354904174805
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール3
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail62/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -76.0348510742188
+                  pnt0_y: 15.3228101730347
+                  pnt0_z: 68.5439605712891
+                  pnt1_x: -76.0348510742188
+                  pnt1_y: 15.3228101730347
+                  pnt1_z: 68.5439605712891
+                  pnt2_x: -76.0348510742188
+                  pnt2_y: 15.3228101730347
+                  pnt2_z: 68.5439605712891
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail63/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -79.6023483276367
+                  pnt0_y: 18.1210803985596
+                  pnt0_z: 29.3014507293701
+                  pnt1_x: -79.6023483276367
+                  pnt1_y: 18.1210803985596
+                  pnt1_z: 29.3014507293701
+                  pnt2_x: -79.6023483276367
+                  pnt2_y: 18.1210803985596
+                  pnt2_z: 29.3014507293701
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail64/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -84.4091110229492
+                  pnt0_y: 23.4355201721191
+                  pnt0_z: -20.6715202331543
+                  pnt1_x: -84.4091110229492
+                  pnt1_y: 23.4355201721191
+                  pnt1_z: -20.6715202331543
+                  pnt2_x: -84.4091110229492
+                  pnt2_y: 23.4355201721191
+                  pnt2_z: -20.6715202331543
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール4
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail66/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -142.995101928711
+                  pnt0_y: 16.8240299224854
+                  pnt0_z: 118.631301879883
+                  pnt1_x: -142.995101928711
+                  pnt1_y: 16.8240299224854
+                  pnt1_z: 118.631301879883
+                  pnt2_x: -142.995101928711
+                  pnt2_y: 16.8240299224854
+                  pnt2_z: 118.631301879883
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail67/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -109.12979888916
+                  pnt0_y: 15.4020395278931
+                  pnt0_z: 95.1861267089844
+                  pnt1_x: -109.12979888916
+                  pnt1_y: 15.4020395278931
+                  pnt1_z: 95.1861267089844
+                  pnt2_x: -109.12979888916
+                  pnt2_y: 15.4020395278931
+                  pnt2_z: 95.1861267089844
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail68/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -80.1489486694336
+                  pnt0_y: 14.1360101699829
+                  pnt0_z: 73.0434265136719
+                  pnt1_x: -80.1489486694336
+                  pnt1_y: 14.1360101699829
+                  pnt1_z: 73.0434265136719
+                  pnt2_x: -80.1489486694336
+                  pnt2_y: 14.1360101699829
+                  pnt2_z: 73.0434265136719
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール5
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail70/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -84.970458984375
+                  pnt0_y: 24.0561904907227
+                  pnt0_z: -26.5074596405029
+                  pnt1_x: -84.970458984375
+                  pnt1_y: 24.0561904907227
+                  pnt1_z: -26.5074596405029
+                  pnt2_x: -84.970458984375
+                  pnt2_y: 24.0561904907227
+                  pnt2_z: -26.5074596405029
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail71/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -79.6023483276367
+                  pnt0_y: 29.4568691253662
+                  pnt0_z: -69.4523086547852
+                  pnt1_x: -79.6023483276367
+                  pnt1_y: 29.4568691253662
+                  pnt1_z: -69.4523086547852
+                  pnt2_x: -79.6023483276367
+                  pnt2_y: 29.4568691253662
+                  pnt2_z: -69.4523086547852
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail72/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -78.1157684326172
+                  pnt0_y: 31.3275299072266
+                  pnt0_z: -86.5592269897461
+                  pnt1_x: -78.1157684326172
+                  pnt1_y: 31.3275299072266
+                  pnt1_z: -86.5592269897461
+                  pnt2_x: -78.1157684326172
+                  pnt2_y: 31.3275299072266
+                  pnt2_z: -86.5592269897461
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール6
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 213
+              param4: 3211
+              param5: 43210
+              param6: 54321
+              param7: 65431
+              param8: 76541
+              param9: 87651
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail74/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -89.9331588745117
+                  pnt0_y: 23.6865406036377
+                  pnt0_z: -23.5388698577881
+                  pnt1_x: -89.9331588745117
+                  pnt1_y: 23.6865406036377
+                  pnt1_z: -23.5388698577881
+                  pnt2_x: -89.9331588745117
+                  pnt2_y: 23.6865406036377
+                  pnt2_z: -23.5388698577881
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail75/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -151.096298217773
+                  pnt0_y: 30.4881896972656
+                  pnt0_z: -47.5243988037109
+                  pnt1_x: -151.096298217773
+                  pnt1_y: 30.4881896972656
+                  pnt1_z: -47.5243988037109
+                  pnt2_x: -151.096298217773
+                  pnt2_y: 30.4881896972656
+                  pnt2_z: -47.5243988037109
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール7
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail77/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -149.910003662109
+                  pnt0_y: 30.7729396820068
+                  pnt0_z: -49.7061309814453
+                  pnt1_x: -149.910003662109
+                  pnt1_y: 30.7729396820068
+                  pnt1_z: -49.7061309814453
+                  pnt2_x: -149.910003662109
+                  pnt2_y: 30.7729396820068
+                  pnt2_z: -49.7061309814453
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail78/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -80.1012878417969
+                  pnt0_y: 31.05246925354
+                  pnt0_z: -87.7085037231445
+                  pnt1_x: -80.1012878417969
+                  pnt1_y: 31.05246925354
+                  pnt1_z: -87.7085037231445
+                  pnt2_x: -80.1012878417969
+                  pnt2_y: 31.05246925354
+                  pnt2_z: -87.7085037231445
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール8
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail80/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -151.562301635742
+                  pnt0_y: 31.2346496582031
+                  pnt0_z: -52.3910903930664
+                  pnt1_x: -151.562301635742
+                  pnt1_y: 31.2346496582031
+                  pnt1_z: -52.3910903930664
+                  pnt2_x: -151.562301635742
+                  pnt2_y: 31.2346496582031
+                  pnt2_z: -52.3910903930664
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail81/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -77.2098236083984
+                  pnt0_y: 37.6453704833984
+                  pnt0_z: -140.787902832031
+                  pnt1_x: -77.2098236083984
+                  pnt1_y: 37.6453704833984
+                  pnt1_z: -140.787902832031
+                  pnt2_x: -77.2098236083984
+                  pnt2_y: 37.6453704833984
+                  pnt2_z: -140.787902832031
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール9
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail83/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -157.124496459961
+                  pnt0_y: 30.9603900909424
+                  pnt0_z: -47.8322296142578
+                  pnt1_x: -157.124496459961
+                  pnt1_y: 30.9603900909424
+                  pnt1_z: -47.8322296142578
+                  pnt2_x: -157.124496459961
+                  pnt2_y: 30.9603900909424
+                  pnt2_z: -47.8322296142578
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail84/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -195.006607055664
+                  pnt0_y: 29.2316493988037
+                  pnt0_z: -18.5367603302002
+                  pnt1_x: -195.006607055664
+                  pnt1_y: 29.2316493988037
+                  pnt1_z: -18.5367603302002
+                  pnt2_x: -195.006607055664
+                  pnt2_y: 29.2316493988037
+                  pnt2_z: -18.5367603302002
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail85/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -208.644104003906
+                  pnt0_y: 23.2383899688721
+                  pnt0_z: 33.4879493713379
+                  pnt1_x: -208.644104003906
+                  pnt1_y: 23.2383899688721
+                  pnt1_z: 33.4879493713379
+                  pnt2_x: -208.644104003906
+                  pnt2_y: 23.2383899688721
+                  pnt2_z: 33.4879493713379
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail86/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -203.593200683594
+                  pnt0_y: 19.1275997161865
+                  pnt0_z: 89.5533828735352
+                  pnt1_x: -203.593200683594
+                  pnt1_y: 19.1275997161865
+                  pnt1_z: 89.5533828735352
+                  pnt2_x: -203.593200683594
+                  pnt2_y: 19.1275997161865
+                  pnt2_z: 89.5533828735352
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail87/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -181.874206542969
+                  pnt0_y: 17.4370994567871
+                  pnt0_z: 114.303001403809
+                  pnt1_x: -181.874206542969
+                  pnt1_y: 17.4370994567871
+                  pnt1_z: 114.303001403809
+                  pnt2_x: -181.874206542969
+                  pnt2_y: 17.4370994567871
+                  pnt2_z: 114.303001403809
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail88/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -148.537902832031
+                  pnt0_y: 16.6773300170898
+                  pnt0_z: 121.879402160645
+                  pnt1_x: -148.537902832031
+                  pnt1_y: 16.6773300170898
+                  pnt1_z: 121.879402160645
+                  pnt2_x: -148.537902832031
+                  pnt2_y: 16.6773300170898
+                  pnt2_z: 121.879402160645
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール10
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail90/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 17.5600700378418
+                  pnt0_y: 29.191219329834
+                  pnt0_z: -18.1845207214355
+                  pnt1_x: 17.5600700378418
+                  pnt1_y: 29.191219329834
+                  pnt1_z: -18.1845207214355
+                  pnt2_x: 17.5600700378418
+                  pnt2_y: 29.191219329834
+                  pnt2_z: -18.1845207214355
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail91/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 66.299072265625
+                  pnt0_y: 24.3480701446533
+                  pnt0_z: 24.0074501037598
+                  pnt1_x: 66.299072265625
+                  pnt1_y: 24.3480701446533
+                  pnt1_z: 24.0074501037598
+                  pnt2_x: 66.299072265625
+                  pnt2_y: 24.3480701446533
+                  pnt2_z: 24.0074501037598
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail92/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 107.036102294922
+                  pnt0_y: 20.2755908966064
+                  pnt0_z: 72.7464294433594
+                  pnt1_x: 107.036102294922
+                  pnt1_y: 20.2755908966064
+                  pnt1_z: 72.7464294433594
+                  pnt2_x: 107.036102294922
+                  pnt2_y: 20.2755908966064
+                  pnt2_z: 72.7464294433594
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail93/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 122.312599182129
+                  pnt0_y: 18.6334495544434
+                  pnt0_z: 119.303100585938
+                  pnt1_x: 122.312599182129
+                  pnt1_y: 18.6334495544434
+                  pnt1_z: 119.303100585938
+                  pnt2_x: 122.312599182129
+                  pnt2_y: 18.6334495544434
+                  pnt2_z: 119.303100585938
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail94/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 104.126403808594
+                  pnt0_y: 19.4311294555664
+                  pnt0_z: 148.401000976562
+                  pnt1_x: 104.126403808594
+                  pnt1_y: 19.4311294555664
+                  pnt1_z: 148.401000976562
+                  pnt2_x: 104.126403808594
+                  pnt2_y: 19.4311294555664
+                  pnt2_z: 148.401000976562
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール11
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail96/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 13.1953897476196
+                  pnt0_y: 29.5731506347656
+                  pnt0_z: -23.2766494750977
+                  pnt1_x: 13.1953897476196
+                  pnt1_y: 29.5731506347656
+                  pnt1_z: -23.2766494750977
+                  pnt2_x: 13.1953897476196
+                  pnt2_y: 29.5731506347656
+                  pnt2_z: -23.2766494750977
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail97/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -18.0848598480225
+                  pnt0_y: 34.187801361084
+                  pnt0_z: -93.1116333007812
+                  pnt1_x: -18.0848598480225
+                  pnt1_y: 34.187801361084
+                  pnt1_z: -93.1116333007812
+                  pnt2_x: -18.0848598480225
+                  pnt2_y: 34.187801361084
+                  pnt2_z: -93.1116333007812
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail98/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -66.823860168457
+                  pnt0_y: 37.7673492431641
+                  pnt0_z: -141.850601196289
+                  pnt1_x: -66.823860168457
+                  pnt1_y: 37.7673492431641
+                  pnt1_z: -141.850601196289
+                  pnt2_x: -66.823860168457
+                  pnt2_y: 37.7673492431641
+                  pnt2_z: -141.850601196289
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール12
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail100/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 10.2855997085571
+                  pnt0_y: 28.8876991271973
+                  pnt0_z: -18.9119701385498
+                  pnt1_x: 10.2855997085571
+                  pnt1_y: 28.8876991271973
+                  pnt1_z: -18.9119701385498
+                  pnt2_x: 10.2855997085571
+                  pnt2_y: 28.8876991271973
+                  pnt2_z: -18.9119701385498
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail101/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -34.8161582946777
+                  pnt0_y: 30.9377403259277
+                  pnt0_z: -57.4666900634766
+                  pnt1_x: -34.8161582946777
+                  pnt1_y: 30.9377403259277
+                  pnt1_z: -57.4666900634766
+                  pnt2_x: -34.8161582946777
+                  pnt2_y: 30.9377403259277
+                  pnt2_z: -57.4666900634766
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail102/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -73.3708877563477
+                  pnt0_y: 30.6706600189209
+                  pnt0_z: -84.3822479248047
+                  pnt1_x: -73.3708877563477
+                  pnt1_y: 30.6706600189209
+                  pnt1_z: -84.3822479248047
+                  pnt2_x: -73.3708877563477
+                  pnt2_y: 30.6706600189209
+                  pnt2_z: -84.3822479248047
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール13
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+            - Points:
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail104/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -81.7414169311523
+                  pnt0_y: 23.4968490600586
+                  pnt0_z: -21.8862895965576
+                  pnt1_x: -81.7414169311523
+                  pnt1_y: 23.4968490600586
+                  pnt1_z: -21.8862895965576
+                  pnt2_x: -81.7414169311523
+                  pnt2_y: 23.4968490600586
+                  pnt2_z: -21.8862895965576
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail105/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: -36.9867401123047
+                  pnt0_y: 25.1905193328857
+                  pnt0_z: -20.1138305664062
+                  pnt1_x: -36.9867401123047
+                  pnt1_y: 25.1905193328857
+                  pnt1_z: -20.1138305664062
+                  pnt2_x: -36.9867401123047
+                  pnt2_y: 25.1905193328857
+                  pnt2_z: -20.1138305664062
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+                - comment: !l -1
+                  dir_x: 0
+                  dir_y: 0
+                  dir_z: 0
+                  id: 0.00000
+                  id_name: rail106/0
+                  link_info: []
+                  link_num: !l 0
+                  param0: -1
+                  param1: -1
+                  param2: -1
+                  param3: -1
+                  pnt0_x: 9.0972900390625
+                  pnt0_y: 28.437650680542
+                  pnt0_z: -15.6826696395874
+                  pnt1_x: 9.0972900390625
+                  pnt1_y: 28.437650680542
+                  pnt1_z: -15.6826696395874
+                  pnt2_x: 9.0972900390625
+                  pnt2_y: 28.437650680542
+                  pnt2_z: -15.6826696395874
+                  scale_x: 1.00000
+                  scale_y: 1.00000
+                  scale_z: 1.00000
+                  unit_name: Point
+              closed: CLOSE
+              comment: !l -1
+              id_name: rail1
+              layer: LC
+              link_info: []
+              link_num: !l 0
+              name: レール15
+              no: 0.00000
+              num_pnt: !l 3
+              param0: 3
+              param1: 3
+              param2: 13
+              param3: 210
+              param4: 3210
+              param5: 4321
+              param6: 5431
+              param7: 6541
+              param8: 7651
+              param9: 8761
+              type: Linear
+              unit_name: Path
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj107
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -71.1651916503906
+            pos_y: 21.4391994476318
+            pos_z: 0.16665999591351
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj108
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -1.14809000492096
+            pos_y: 27.2430000305176
+            pos_z: -13.3165903091431
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj109
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -118.198501586914
+            pos_y: 26.9014091491699
+            pos_z: -47.0828895568848
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj110
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -124.117500305176
+            pos_y: 49.2893905639648
+            pos_z: -245.067794799805
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000314159274
+            dir_z: 0
+            group: 0.00000
+            id_name: obj111
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 16.2596092224121
+            pos_y: 46.5188903808594
+            pos_z: -267.180297851562
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj112
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -13.8391599655151
+            pos_y: 43.7909507751465
+            pos_z: -157.603698730469
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj113
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 21.0170803070068
+            pos_y: 47.5167999267578
+            pos_z: -354.540710449219
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj114
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -45.707691192627
+            pos_y: 45.893009185791
+            pos_z: -371.963012695312
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj115
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 8.62347984313965
+            pos_y: 44.4422302246094
+            pos_z: -390.056488037109
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj116
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -34.6342315673828
+            pos_y: 43.9422302246094
+            pos_z: -392.918212890625
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj117
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 1.67481994628906
+            pos_y: 38.8373107910156
+            pos_z: -212.95719909668
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj118
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 8.78724956512451
+            pos_y: 41.1203002929688
+            pos_z: -328.993988037109
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj119
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -4.22460985183716
+            pos_y: 42.7000007629395
+            pos_z: 158.464096069336
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj120
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -0.41286998987198
+            pos_y: 46.377799987793
+            pos_z: -49.2168998718262
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj121
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 5.54711008071899
+            pos_y: 48.5263214111328
+            pos_z: 81.9294128417969
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj122
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -6.59989976882935
+            pos_y: 46.3777694702148
+            pos_z: -96.36181640625
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj123
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -4.22460985183716
+            pos_y: 42.7000007629395
+            pos_z: 158.464096069336
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000558505326
+            dir_z: 0
+            group: 0.00000
+            id_name: obj124
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -61.7655601501465
+            pos_y: 39.3343887329102
+            pos_z: -155.502197265625
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj125
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 42.9296913146973
+            pos_y: 48.7160682678223
+            pos_z: -224.856994628906
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj126
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -26.8058109283447
+            pos_y: 24.9116992950439
+            pos_z: -1.15640997886658
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj127
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -96.08837890625
+            pos_y: 21.0419692993164
+            pos_z: 3.85569000244141
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj128
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -69.2009124755859
+            pos_y: 22.7805099487305
+            pos_z: -15.6458396911621
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj129
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -0.41286998987198
+            pos_y: 46.377799987793
+            pos_z: -49.2168998718262
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj130
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -147.813293457031
+            pos_y: 49.733829498291
+            pos_z: -225.778396606445
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj131
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 5.54711008071899
+            pos_y: 48.5263214111328
+            pos_z: 81.9294128417969
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj132
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -6.59989976882935
+            pos_y: 46.3777694702148
+            pos_z: -96.36181640625
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj133
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 1.67481994628906
+            pos_y: 38.8373107910156
+            pos_z: -212.95719909668
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj134
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -21.2446804046631
+            pos_y: 44.4422187805176
+            pos_z: -351.683013916016
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj135
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -7.18362998962402
+            pos_y: 44.4422302246094
+            pos_z: -339.055389404297
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj136
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -71.6819381713867
+            pos_y: 47.7323188781738
+            pos_z: -380.278900146484
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj137
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 51.6733703613281
+            pos_y: 49.4319496154785
+            pos_z: -364.754791259766
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj138
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -36.2005996704102
+            pos_y: 44.4422187805176
+            pos_z: -342.326995849609
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj139
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 8.78724956512451
+            pos_y: 41.1203002929688
+            pos_z: -328.993988037109
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj140
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -71.1651916503906
+            pos_y: 21.4391994476318
+            pos_z: 0.26822000741959
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj141
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -1.14809000492096
+            pos_y: 27.2430000305176
+            pos_z: -13.2150297164917
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj142
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -118.198501586914
+            pos_y: 26.9014091491699
+            pos_z: -46.9813194274902
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj143
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -82.4348373413086
+            pos_y: 41.8526496887207
+            pos_z: -181.694702148438
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000209439509
+            dir_z: 0
+            group: 0.00000
+            id_name: obj144
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -189.429992675781
+            pos_y: 50.0686492919922
+            pos_z: -215.270904541016
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000314159274
+            dir_z: 0
+            group: 0.00000
+            id_name: obj145
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 16.2596092224121
+            pos_y: 46.5139694213867
+            pos_z: -267.078704833984
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj146
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -13.8391599655151
+            pos_y: 43.7909507751465
+            pos_z: -157.502105712891
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj147
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 21.0170803070068
+            pos_y: 47.5167999267578
+            pos_z: -353.556304931641
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj148
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -45.707691192627
+            pos_y: 45.893009185791
+            pos_z: -371.861511230469
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj149
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 8.62347984313965
+            pos_y: 44.4422187805176
+            pos_z: -390.595611572266
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj150
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -34.6342315673828
+            pos_y: 44.4422302246094
+            pos_z: -393.261993408203
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj151
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -0.08558999747038
+            pos_y: 27.2430000305176
+            pos_z: -13.3165903091431
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj152
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -70.1026916503906
+            pos_y: 21.4391994476318
+            pos_z: 0.16665999591351
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj153
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Chuchu
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: 0
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -117.136001586914
+            pos_y: 26.9014091491699
+            pos_z: -47.0828895568848
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj154
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -81.3723373413086
+            pos_y: 41.8526496887207
+            pos_z: -181.796203613281
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000191986214
+            dir_z: 0
+            group: 0.00000
+            id_name: obj155
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -12.7766599655151
+            pos_y: 43.7909507751465
+            pos_z: -157.603698730469
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj156
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -123.055000305176
+            pos_y: 49.2893905639648
+            pos_z: -245.067794799805
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000314159274
+            dir_z: 0
+            group: 0.00000
+            id_name: obj157
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 17.3221092224121
+            pos_y: 46.5188903808594
+            pos_z: -267.180297851562
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj158
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 22.0795803070068
+            pos_y: 47.5167999267578
+            pos_z: -354.540710449219
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj159
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: 0
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 9.68597984313965
+            pos_y: 44.4422302246094
+            pos_z: -390.056488037109
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj160
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_B
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -33.5717315673828
+            pos_y: 43.9422302246094
+            pos_z: -392.918212890625
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0
+            dir_z: 0
+            group: 0.00000
+            id_name: obj161
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_Moriburin_C
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -44.645191192627
+            pos_y: 45.893009185791
+            pos_z: -371.963012695312
+            scale_x: 1
+            scale_y: 1
+            scale_z: 1
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj162
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 1.67481994628906
+            pos_y: 38.8373107910156
+            pos_z: -212.95719909668
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: -0.00000017453291
+            dir_z: 0
+            group: 0.00000
+            id_name: obj163
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 4
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 8.15552997589111
+            pos_y: 41.1203002929688
+            pos_z: -297.408111572266
+            scale_x: 8
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj164
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 0
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -4.22460985183716
+            pos_y: 42.7000007629395
+            pos_z: 158.464096069336
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj165
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_StartSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -0.41286998987198
+            pos_y: 46.377799987793
+            pos_z: -49.2168998718262
+            scale_x: 6.22854995727539
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj166
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 2
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: 5.54711008071899
+            pos_y: 48.5263214111328
+            pos_z: 81.9294128417969
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+          - PathID: -1.00000
+            comment: !l -1
+            dir_x: 0
+            dir_y: 0.00000069813166
+            dir_z: 0
+            group: 0.00000
+            id_name: obj167
+            layer: L1
+            link_info: []
+            link_num: !l 0
+            name: Zld_AppearSwitchBox
+            param0: 0
+            param1: 3
+            param10: -1
+            param11: -1
+            param2: -1
+            param3: -1
+            param4: -1
+            param5: -1
+            param6: -1
+            param7: -1
+            param8: -1
+            param9: -1
+            pos_x: -6.59989976882935
+            pos_y: 46.3777694702148
+            pos_z: -96.36181640625
+            scale_x: 6
+            scale_y: 1
+            scale_z: 0.10000000149012
+        RailInfos:
+          PathInfo:
+      LayerName: LC
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L1
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L2
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L3
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L4
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L5
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L6
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L7
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L8
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L9
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L10
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L11
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L12
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L13
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L14
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L15
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L16
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L17
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L18
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L19
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L20
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L21
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L22
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L23
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L24
+    - Infos:
+        ObjInfo: []
+        RailInfos:
+          PathInfo: []
+      LayerName: L25

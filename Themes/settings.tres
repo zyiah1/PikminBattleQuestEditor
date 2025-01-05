@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://opuncj7m8u"]
+
+[ext_resource type="FontFile" uid="uid://dksynxbvfjme6" path="res://Open_Sans/static/OpenSans-ExtraBold.ttf" id="1_grdjo"]
+
+[resource]
+Button/font_sizes/font_size = 41
+Button/fonts/font = ExtResource("1_grdjo")
