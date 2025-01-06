@@ -4,3 +4,4 @@
 
 [node name="Pathrail" type="Node3D"]
 script = ExtResource("1_lmk3l")
+pathcolor = Color(0, 0.364706, 0.776471, 1)

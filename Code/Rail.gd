@@ -2,6 +2,7 @@ class_name Fmprail extends Node3D
 
 
 @export var Name: String = "Zld_Tsubo"
+@export var number: int = -9999
 @export var Param0: int = -1
 @export var Param1: int = -1
 @export var Param2: int = -1
@@ -34,9 +35,9 @@ var load = false
 "              layer: LC",
 "              link_info: []",
 "              link_num: !l 0",
-"              name: " + Name, #未入力0 name in da thingamobaob
-"              no: 0.00000",
-"              num_pnt: !l 3",
+"              name: " + Name, #未入力0 name in the thing
+"              no: "+str(number),
+"              num_pnt: !l 3", #number of points, dont think it really matters
 "              param0: "+str(Param0),
 "              param1: "+str(Param1),
 "              param2: "+str(Param2),
@@ -58,6 +59,7 @@ func _ready():
 		#inst.connect("area_entered",Callable(self,"area_entered"))
 		#inst.connect("area_exited",Callable(self,"area_exited"))
 		#node.add_child(inst)
+
 
 
 
@@ -172,4 +174,7 @@ func EXPORT():
 		totalpointdata += node.data
 	refreshData()
 	var header = ["            - Points:"]
-	creator.objects += header + totalpointdata + data
+	var adjustedData = data
+	if number == -99999:
+		adjustedData.remove_at(2)
+	creator.objects += header + totalpointdata + adjustedData

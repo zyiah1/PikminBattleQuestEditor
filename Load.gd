@@ -116,6 +116,10 @@ func LoadLevel(name):
 								railinst = preload("res://Zelda/Rails/Rail.tscn").instantiate()
 							#set all of the rail things while we are here
 							railinst.Name = data.lstrip("              name: ")
+							if content[loops+1].begins_with("              no: "):
+								print("This Rail has a number value!")
+								railinst.number = int(content[loops+1].lstrip("              no: "))
+								loops + 1
 							railinst.Param0 = int(content[loops+2].lstrip("              param0: "))
 							railinst.Param1 = int(content[loops+3].lstrip("              param1: "))
 							railinst.Param2 = int(content[loops+4].lstrip("              param2: "))

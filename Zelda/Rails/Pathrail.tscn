@@ -4,5 +4,6 @@
 
 [node name="Pathrail" type="Node3D"]
 script = ExtResource("1_m4k46")
+number = 0
 
 [node name="Lines" type="Node3D" parent="."]
