@@ -18,7 +18,7 @@ func _ready():
 		instance.Path = foundPaths[value][0]
 		instance.text = foundPaths[value][1].rstrip(".tscn")
 		$HBoxContainer.add_child(instance)
-
+		$HBoxContainer.move_child($HBoxContainer/Custom,-1)
 
 func getFilePathsByExtension(directoryPath: String, extension: String, recursive: bool = true) -> Array:
 	

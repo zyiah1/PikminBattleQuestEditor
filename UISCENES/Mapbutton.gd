@@ -1,4 +1,6 @@
 extends Button
+class_name MapButton
+
 
 var Path
 @onready var Map = get_parent().get_parent().get_parent().get_parent().get_node("Map")
